@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ReposteriaSammy's\ReposteriaSammy's\bin\Debug\net6.0\ReposteriaSammy's.exe
+C:\Users\User\source\repos\ReposteriaSammy's\ReposteriaSammy's\bin\Debug\net6.0\ReposteriaSammy's.deps.json
+C:\Users\User\source\repos\ReposteriaSammy's\ReposteriaSammy's\bin\Debug\net6.0\ReposteriaSammy's.runtimeconfig.json
+C:\Users\User\source\repos\ReposteriaSammy's\ReposteriaSammy's\bin\Debug\net6.0\ReposteriaSammy's.dll
+C:\Users\User\source\repos\ReposteriaSammy's\ReposteriaSammy's\bin\Debug\net6.0\ref\ReposteriaSammy's.dll
+C:\Users\User\source\repos\ReposteriaSammy's\ReposteriaSammy's\bin\Debug\net6.0\ReposteriaSammy's.pdb
+C:\Users\User\source\repos\ReposteriaSammy's\ReposteriaSammy's\obj\Debug\net6.0\ReposteriaSammy's.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ReposteriaSammy's\ReposteriaSammy's\obj\Debug\net6.0\ReposteriaSammy's.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ReposteriaSammy's\ReposteriaSammy's\obj\Debug\net6.0\ReposteriaSammy's.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ReposteriaSammy's\ReposteriaSammy's\obj\Debug\net6.0\ReposteriaSammy's.AssemblyInfo.cs
+C:\Users\User\source\repos\ReposteriaSammy's\ReposteriaSammy's\obj\Debug\net6.0\ReposteriaSammy's.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ReposteriaSammy's\ReposteriaSammy's\obj\Debug\net6.0\ReposteriaSammy's.dll
+C:\Users\User\source\repos\ReposteriaSammy's\ReposteriaSammy's\obj\Debug\net6.0\ref\ReposteriaSammy's.dll
+C:\Users\User\source\repos\ReposteriaSammy's\ReposteriaSammy's\obj\Debug\net6.0\ReposteriaSammy's.pdb
+C:\Users\User\source\repos\ReposteriaSammy's\ReposteriaSammy's\obj\Debug\net6.0\ReposteriaSammy's.genruntimeconfig.cache
